@@ -7,6 +7,10 @@
   height: 100vh;
   gap: 1rem;
 
+  &__error {
+    color: red;
+  }
+
   &__form {
     border: 1px solid gray;
     min-width: 300px;
